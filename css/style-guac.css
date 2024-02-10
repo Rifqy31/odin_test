@@ -1,0 +1,31 @@
+.img-guac {
+    width: 500px;
+    height: 400px;
+}
+
+body {
+    background-color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desc {
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+}
+
+ul {
+    background-color: aquamarine;
+    margin: 10px;
+    width: 300px;
+    padding: 40px 30px;
+}
+
+ol {
+    background-color: burlywood;
+    margin: 10px;
+    width: 500px;
+    padding: 40px 30px;
+}
